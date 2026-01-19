@@ -33,4 +33,4 @@ Survive as long as you can to rack up a high score.
 ## Download from Playstore
 
 
-- [Link]([https://docs.flutter.dev/get-started/codelab](https://play.google.com/store/apps/details?id=tech.uniktek.nemo)
+- [Link]([https://play.google.com/store/apps/details?id=tech.uniktek.nemo](https://play.google.com/store/apps/details?id=tech.uniktek.nemo)
