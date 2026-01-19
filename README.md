@@ -30,7 +30,4 @@ Avoid everything that isn't water! 🦈🪨
 
 Survive as long as you can to rack up a high score.
 
-## Download from Playstore
 
-
-- [Link]([https://play.google.com/store/apps/details?id=tech.uniktek.nemo](https://play.google.com/store/apps/details?id=tech.uniktek.nemo)
